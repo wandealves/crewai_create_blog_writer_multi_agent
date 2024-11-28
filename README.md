@@ -8,3 +8,4 @@ deactivate
 pip install -r requirements.txt
 # Executar
 python main.py
+python main_groq.py
