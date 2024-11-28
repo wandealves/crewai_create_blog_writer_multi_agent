@@ -1,2 +1,10 @@
-# crewai_create_blog_writer_multi_agent
-Create a Blog Writer Multi-Agent
+# Criar ambiente
+python -m venv venv
+# Ativar o ambiente
+source venv/bin/activate
+# Desativar o ambiente
+deactivate
+# Instalar 
+pip install -r requirements.txt
+# Executar
+python main.py
